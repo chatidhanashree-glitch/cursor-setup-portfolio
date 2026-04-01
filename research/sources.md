@@ -19,3 +19,14 @@
 - Content focus:
   AI content generation, backlinks, automation
 - Date accessed: 2026
+
+---
+
+## Brian Dean
+- Platform: Blog / YouTube
+- Link: https://backlinko.com
+- Why selected:
+  Known for high-quality SEO frameworks and content strategies.
+- Content focus:
+  SEO content, backlinks, on-page optimization
+- Date accessed: 2026
