@@ -30,3 +30,25 @@
 - Content focus:
   SEO content, backlinks, on-page optimization
 - Date accessed: 2026
+
+---
+
+## Kevin Indig
+- Platform: LinkedIn
+- Link: https://www.linkedin.com/in/kevin-indig/
+- Why selected:
+  Shares deep insights on SEO, growth, and AI-driven search. Focuses on how search is evolving beyond traditional rankings.
+- Content focus:
+  AI SEO, growth strategy, search trends, product-led SEO
+- Date accessed: 2026
+
+---
+
+## Lily Ray
+- Platform: LinkedIn
+- Link: https://www.linkedin.com/in/lilyraynyc/
+- Why selected:
+  Known for expertise in Google algorithm updates, E-E-A-T, and content credibility, especially relevant in AI-driven search.
+- Content focus:
+  SEO, Google updates, content quality, trust and authority (E-E-A-T)
+- Date accessed: 2026
