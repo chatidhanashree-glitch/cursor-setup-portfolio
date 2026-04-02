@@ -74,3 +74,14 @@
 - Content focus:
   Keyword research, backlinks, SEO strategy, ranking factors
 - Date accessed: 2026
+
+---
+
+## Rand Fishkin
+- Platform: Podcast / YouTube
+- Link: https://www.youtube.com/watch?v=5JQvdLYvGZI
+- Why selected:
+  Provides deep insights into the impact of AI on search behavior, including zero-click searches and AI-driven visibility.
+- Content focus:
+  AI search, SEO trends, zero-click search, content strategy
+- Date accessed: 2026
