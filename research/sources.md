@@ -52,3 +52,25 @@
 - Content focus:
   SEO, Google updates, content quality, trust and authority (E-E-A-T)
 - Date accessed: 2026
+
+---
+
+## Ross Simmonds
+- Platform: LinkedIn
+- Link: https://www.linkedin.com/in/rosssimmonds/
+- Why selected:
+  Shares practical insights on content marketing, distribution, and growth strategies.
+- Content focus:
+  Content marketing, distribution, SEO, growth strategy
+- Date accessed: 2026
+
+---
+
+## Ahrefs
+- Platform: YouTube / Blog
+- Link: https://www.youtube.com/@AhrefsCom
+- Why selected:
+  Provides data-driven SEO strategies and practical tutorials from industry experts.
+- Content focus:
+  Keyword research, backlinks, SEO strategy, ranking factors
+- Date accessed: 2026
