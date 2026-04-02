@@ -85,3 +85,14 @@
 - Content focus:
   AI search, SEO trends, zero-click search, content strategy
 - Date accessed: 2026
+
+---
+
+## Amanda Natividad
+- Platform: Podcast (via YouTube)
+- Link: https://www.youtube.com/watch?v=h94Hu8Ngr5c
+- Why selected:
+  Shares insights on content marketing, audience engagement, and strategy, which are essential for modern AI-driven SEO.
+- Content focus:
+  Content strategy, marketing, audience engagement
+- Date accessed: 2026
