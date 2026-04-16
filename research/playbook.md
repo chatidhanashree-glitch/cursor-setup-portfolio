@@ -114,3 +114,26 @@ Some approaches focus only on publishing content and relying on SEO rankings.
 
 - Why I rejected it:
   Without distribution, even high-quality content may not reach the right audience. Platforms like LinkedIn play a key role in increasing visibility and authority.
+
+  ---
+
+## 5. My Original Idea
+
+### Idea: AI-Optimized Content Templates for Better Extraction
+
+I propose creating content using predefined “AI-friendly templates” designed specifically for AI systems to easily extract and display information.
+
+These templates would include:
+- short, direct answers at the top
+- structured headings (H2, H3)
+- bullet points for key information
+- clear summaries
+
+### Why this could work:
+
+Most AI tools prioritize clarity and structure when selecting content for answers. By designing content specifically for AI extraction, it increases the chances of being featured in AI-generated results.
+
+This approach combines:
+- SEO fundamentals (structure, keywords)
+- UX principles (clarity, readability)
+- AI behavior (content extraction patterns)
