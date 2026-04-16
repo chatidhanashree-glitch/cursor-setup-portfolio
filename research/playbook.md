@@ -137,3 +137,17 @@ This approach combines:
 - SEO fundamentals (structure, keywords)
 - UX principles (clarity, readability)
 - AI behavior (content extraction patterns)
+
+---
+
+## 6. Weaknesses of This Playbook
+
+- This playbook is based on expert insights rather than direct experimentation, so some recommendations may not be fully validated in real-world scenarios.
+
+- AI search and ranking systems are evolving rapidly, which means some strategies may become outdated over time.
+
+- The effectiveness of distribution strategies can vary depending on industry, audience, and platform.
+
+- Measuring success in AI-driven search (like AI Overviews or ChatGPT) is still unclear and lacks standardized metrics.
+
+- The playbook assumes consistent content quality and execution, which may not always be achievable in practice.
