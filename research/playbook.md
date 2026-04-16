@@ -94,3 +94,23 @@ Build trust through consistent, high-quality content and brand presence.
 
 - My take:
   SEO is evolving, not replacing fundamentals. Combining traditional SEO with AI visibility strategies is the most effective approach.
+
+  ---
+
+## 4. What I Rejected and Why
+
+### Idea 1: Fully AI-Generated Content
+
+Some experts suggest scaling content using AI with minimal human involvement.
+
+- Why I rejected it:
+  Fully AI-generated content lacks originality, depth, and trust signals. It may work short-term but is risky for long-term SEO performance and authority building.
+
+---
+
+### Idea 2: Ignoring Distribution
+
+Some approaches focus only on publishing content and relying on SEO rankings.
+
+- Why I rejected it:
+  Without distribution, even high-quality content may not reach the right audience. Platforms like LinkedIn play a key role in increasing visibility and authority.
