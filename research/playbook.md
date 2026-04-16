@@ -53,3 +53,44 @@ Promote content across platforms like LinkedIn to increase reach.
 Build trust through consistent, high-quality content and brand presence.
 
 (Source: Lily Ray, LinkedIn post, accessed 2026)
+
+---
+
+## 3. Where Experts Disagree
+
+### Example 1: AI Content vs Human Content
+
+- Julian Goldie:
+  Supports using AI heavily to scale content production.
+
+- Lily Ray:
+  Emphasizes trust, expertise, and human-quality content.
+
+- My take:
+  AI should be used for speed and efficiency, but human editing is essential for credibility and long-term SEO performance.
+
+---
+
+### Example 2: SEO vs Distribution
+
+- Brian Dean:
+  Focuses on SEO fundamentals like keyword optimization and rankings.
+
+- Ross Simmonds:
+  Emphasizes content distribution and promotion.
+
+- My take:
+  SEO ensures discoverability, but distribution is required to maximize reach and visibility. Both are equally important.
+
+---
+
+### Example 3: Traditional SEO vs AI SEO
+
+- Ahrefs:
+  Focuses on traditional ranking factors like backlinks and keywords.
+
+- Rand Fishkin:
+  Highlights the shift toward AI-driven visibility and zero-click searches.
+
+- My take:
+  SEO is evolving, not replacing fundamentals. Combining traditional SEO with AI visibility strategies is the most effective approach.
